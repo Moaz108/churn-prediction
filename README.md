@@ -13,10 +13,11 @@ Deployment: Deploy the trained model for real-time predictions.
 
 
 (Requirements)
-Python 3.x
-Jupyter Notebooks
-Additional dependencies listed in requirements.txt
-Getting Started
+1-Python 3.x
+2-Jupyter Notebooks
+3-Additional dependencies listed in requirements.txt
+
+(Getting Started)
 
 Clone the repository:
 git clone https://github.com/Moaz108/churn-prediction.git
